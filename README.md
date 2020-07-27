@@ -1,6 +1,6 @@
 [![Codejo.](https://www.codejo.io/images/codejo-invert.png)](https://www.youtube.com/c/codejo)
 
-Hi. I’m Matt, Co-host of the CodeSho Podcast. This is my personal account where I build game engines and put small challenges and learning projects. [@codejo-io](https://github.com/codejo-io) is where you can find the tutorials for the [![Codejo.]](https://www.youtube.com/c/codejo). If you are interested in learning Android or iOS development or mobile game programming, checkout out my youtube channel.
+Hi. I’m Matt, Co-host of the CodeSho Podcast. This is my personal account where I build game engines and put small challenges and learning projects. [@codejo-io](https://github.com/codejo-io) is where you can find the tutorials for the [Codejo.](https://www.youtube.com/c/codejo). If you are interested in learning Android or iOS development or mobile game programming, checkout out my youtube channel.
 
 I work at [VShred](https://www.vshred.com) as a Sr. Android Engineer. For more information about me, check me out on [linkedIn](https://www.linkedin.com/in/matt-casanova-2ab61312/).
 
