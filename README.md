@@ -1,8 +1,6 @@
-[![Codejo.](https://www.codejo.io/images/codejo-invert.png)](https://www.youtube.com/c/codejo)
+Hi. I’m Matt. This is my personal account where I build game engines and put small challenges and learning projects. I haven't worked on game engins in a while but I am learning laravel via laracasts and will probably do some personal projects using laravel in the future.
 
-Hi. I’m Matt, Co-host of the CodeSho Podcast. This is my personal account where I build game engines and put small challenges and learning projects. [@codejo-io](https://github.com/codejo-io) is where you can find the tutorials for the [Codejo.](https://www.youtube.com/c/codejo). If you are interested in learning Android or iOS development or mobile game programming, checkout out my youtube channel.
-
-I work at [VShred](https://www.vshred.com) as a Sr. Android Engineer. For more information about me, check me out on [linkedIn](https://www.linkedin.com/in/matt-casanova-2ab61312/).
+I work at Meta as a Sr. Software Engineer. For more information about me, check me out on [linkedIn](https://www.linkedin.com/in/matt-casanova-2ab61312/).
 
 <!--
 **mattCasanova/mattCasanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
