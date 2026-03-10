@@ -1,18 +1,13 @@
-Hi. I’m Matt. This is my personal account where I build game engines and put small challenges and learning projects. I haven't worked on game engins in a while but I am learning laravel via laracasts and will probably do some personal projects using laravel in the future.
+### Hi, I'm Matt 👋
 
-I work at Meta as a Sr. Software Engineer. For more information about me, check me out on [linkedIn](https://www.linkedin.com/in/matt-casanova-2ab61312/).
+Senior Software Engineer at Meta, where I spent the last five years building wearables — including Meta Ray-Bans and Ray-Ban Meta smart glasses.
 
-<!--
-**mattCasanova/mattCasanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal account where I tinker, learn, and build things. I used to spend most of my free time writing game engines in C/C++, but these days I'm deep into **Laravel**, **Vue**, and full-stack web development. I've also been going all-in on **AI-assisted development** with tools like Claude Code.
 
-Here are some ideas to get you started:
+I'm still passionate about **iOS and Android** development and plan to get back to mobile projects soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also made a couple of **Tokyo Night Storm themes** for Chrome and iTerm — check them out if dark themes are your thing.
+
+When I'm not coding, you can usually find me learning something new on [Laracasts](https://www.laracasts.com).
+
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/matt-casanova-2ab61312/)
