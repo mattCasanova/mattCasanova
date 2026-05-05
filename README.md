@@ -1,16 +1,29 @@
-### Hi, I'm Matt 👋
+Pulled the voice and project details from your about.md (which is more current than the README — it has Flux, etc.). Here's a draft. Image is at the top as a clickable link to the blog:
 
-I'm a Senior Software Engineer at Meta, where I spent the last five years building wearables — including Ray-Bans Stories and Ray-Ban Meta smart glasses.
+  [![Neon & Noise](https://mattcasanova.github.io/assets/images/header.jpg)](https://mattcasanova.github.io)
 
-This is my personal account where I tinker, learn, and build things. I used to spend most of my free time writing game engines in C/C++, but these days I'm deep into **Laravel**, **Vue**, and full-stack web development. I've also been going all-in on **AI-assisted development** with tools like Claude Code.
+  # Hi, I'm Matt 👋
 
-I'm still passionate about **iOS and Android** development so I started working on my LiquidMetal2D iOS Game engine.
+  Senior software engineer at Meta. The last five years I've been on wearables — **Ray-Ban Stories** and **Ray-Ban Meta** smart glasses. Before Meta I taught C/C++ and game development for seven years and
+  co-authored a [book on game programming patterns](https://www.amazon.com/Game-Development-Patterns-Best-Practices-ebook/dp/B01MRP7SPA/). Twenty years of shipping in more languages than I care to count.
 
-I also made a couple of **Tokyo Night Storm themes** for Chrome and iTerm — check them out if dark themes are your thing.
+  This account is the night-shift one. Day job is mobile and web. Nights are game engines, terminals, and whatever I feel like building.
 
-When I'm not coding, you can usually find me learning something new on [Laracasts](https://www.laracasts.com).
+  ## What I'm Building
 
-📫 Find me on [LinkedIn](https://www.linkedin.com/in/matt-casanova-2ab61312/)
+  **[Flux](https://github.com/mattcasanova/flux)** — a GPU-accelerated terminal emulator in Rust. Warp-style command blocks, zero telemetry, no account required. Standing on the shoulders of
+  [Alacritty](https://github.com/alacritty/alacritty), [WezTerm's portable-pty](https://crates.io/crates/portable-pty), [cosmic-text](https://github.com/pop-os/cosmic-text), and
+  [wgpu](https://github.com/gfx-rs/wgpu). Currently in the phase where Vim almost looks right.
 
-## My Blog
-Check out my [Neon and Noise](https://mattCasanova.github.io) for articles and projects.
+  **[LiquidMetal2D](https://github.com/mattCasanova/LiquidMetal2D)** — a 2D game engine in Swift + Metal. Built it in 2020, brought it back this year. Instanced rendering, a component system, a spatial-grid
+  broadphase that runs 7,000 colliding ships at 30fps on a phone.
+
+  **[Tokyo Night Storm iTerm2 Profile](https://github.com/mattCasanova/tokyo-night-storm-iterm-profile)** — Tokyo Night Storm everywhere I work. Couldn't find an iTerm2 version I liked, so I shipped one. My
+  dotfiles are a whole thing.
+
+  ## The Blog
+
+  [**Neon & Noise**](https://mattcasanova.github.io) — notes from the night shift. Rust, GPU rendering, terminal internals, AI-assisted development with Claude Code, and the occasional drunk-at-the-bar rant
+  about agile.
+
+  If a post ends with *"time for a drink,"* that's just how the night shift goes.
