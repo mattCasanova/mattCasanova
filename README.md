@@ -11,3 +11,6 @@ I also made a couple of **Tokyo Night Storm themes** for Chrome and iTerm — ch
 When I'm not coding, you can usually find me learning something new on [Laracasts](https://www.laracasts.com).
 
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/matt-casanova-2ab61312/)
+
+## My Blog
+Check out my [GitHub Pages blog](https://mattCasanova.github.io) for articles and projects.
