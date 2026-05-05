@@ -13,4 +13,4 @@ When I'm not coding, you can usually find me learning something new on [Laracast
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/matt-casanova-2ab61312/)
 
 ## My Blog
-Check out my [GitHub Pages blog](https://mattCasanova.github.io) for articles and projects.
+Check out my [Neon and Noise](https://mattCasanova.github.io) for articles and projects.
